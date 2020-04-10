@@ -1,0 +1,612 @@
+18:49:45.257 INFO  TestNGMultiBrowserAndParallelTest -Loading config.properties file
+18:50:26.391 INFO  TestNGMultiBrowserAndParallelTest -Loading config.properties file
+18:50:26.413 INFO  TestNGMultiBrowserAndParallelTest -Loading config.properties file
+18:50:26.443 INFO  TestNGMultiBrowserAndParallelTest -This method is running from Before Class
+18:50:26.443 INFO  TestNGMultiBrowserAndParallelTest -This method is running from Before Class
+18:50:26.444 INFO  TestNGMultiBrowserAndParallelTest -Loading config.properties file
+18:50:26.444 INFO  TestNGMultiBrowserAndParallelTest -Loading config.properties file
+18:50:26.508 INFO  TestNGMultiBrowserAndParallelTest -Get Instance for Extent Reports
+18:50:26.508 INFO  TestNGMultiBrowserAndParallelTest -Get Instance for Extent Reports
+18:50:26.511 INFO  TestBase -Launching Firefox browser
+18:50:26.511 INFO  TestBase -Launching Chrome browser
+18:50:33.773 INFO  HomePage -PageFactory initialization for locating elements
+18:50:34.902 INFO  HomePage -Browser maximized
+18:50:34.908 INFO  HomePage -Implicit wait method called
+18:50:34.909 INFO  HomePage -loading the given url
+18:50:37.143 INFO  HomePage -PageFactory initialization for locating elements
+18:50:37.151 INFO  HomePage -Browser maximized
+18:50:37.161 INFO  HomePage -Implicit wait method called
+18:50:37.163 INFO  HomePage -loading the given url
+18:50:50.986 INFO  HomePage -Wait for 4 secs
+18:50:52.408 INFO  HomePage -Clicked on close button and back to site
+18:50:52.910 INFO  HomePage -Clicked on signup link
+18:50:53.175 INFO  HomePage -Clicked on login link
+18:50:53.475 INFO  HomePage -Entered username
+18:50:53.616 INFO  HomePage -Entered password
+18:50:53.712 INFO  HomePage -Clicked on GoButton and Navigating to Practice page 
+18:50:57.712 INFO  HomePage -Wait for 4 secs
+18:51:01.718 INFO  HomePage -Wait for 4 secs
+18:51:01.718 INFO  HomePage -Navigating to Practice page
+18:51:09.858 INFO  HomePage -Wait for 4 secs
+18:51:09.858 INFO  HomePage -Inside method Select multiple checkox
+18:51:10.222 INFO  TestNGMultiBrowserAndParallelTest -Verified all checkboxes are selected
+18:51:14.226 INFO  HomePage -Wait for 4 secs
+18:51:14.226 INFO  HomePage -Inside Validate checkbox method
+18:51:14.313 INFO  TestNGMultiBrowserAndParallelTest -Validated texts of checkboxes
+18:51:21.566 INFO  HomePage -Wait for 4 secs
+18:52:26.985 INFO  TestNGMultiBrowserAndParallelTest -Loading config.properties file
+18:52:27.006 INFO  TestNGMultiBrowserAndParallelTest -Loading config.properties file
+18:52:27.034 INFO  TestNGMultiBrowserAndParallelTest -This method is running from Before Class
+18:52:27.035 INFO  TestNGMultiBrowserAndParallelTest -Loading config.properties file
+18:52:27.215 INFO  TestNGMultiBrowserAndParallelTest -Get Instance for Extent Reports
+18:52:27.215 INFO  TestBase -Launching Firefox browser
+18:52:35.540 INFO  HomePage -PageFactory initialization for locating elements
+18:52:35.553 INFO  HomePage -Browser maximized
+18:52:35.561 INFO  HomePage -Implicit wait method called
+18:52:35.561 INFO  HomePage -loading the given url
+18:53:12.129 INFO  HomePage -Wait for 4 secs
+18:53:15.358 INFO  HomePage -Clicked on close button and back to site
+18:53:15.802 INFO  HomePage -Clicked on signup link
+18:53:16.235 INFO  HomePage -Clicked on login link
+18:53:16.375 INFO  HomePage -Entered username
+18:53:16.433 INFO  HomePage -Entered password
+18:53:16.738 INFO  HomePage -Clicked on GoButton and Navigating to Practice page 
+18:53:20.738 INFO  HomePage -Wait for 4 secs
+18:53:24.747 INFO  HomePage -Wait for 4 secs
+18:53:24.747 INFO  HomePage -Navigating to Practice page
+18:53:51.454 INFO  HomePage -Wait for 4 secs
+18:53:51.454 INFO  HomePage -Inside method Select multiple checkox
+18:53:56.385 INFO  TestNGMultiBrowserAndParallelTest -Verified all checkboxes are selected
+18:54:00.388 INFO  HomePage -Wait for 4 secs
+18:54:00.388 INFO  HomePage -Inside Validate checkbox method
+18:54:00.434 INFO  TestNGMultiBrowserAndParallelTest -Validated texts of checkboxes
+18:54:10.788 INFO  TestNGMultiBrowserAndParallelTest -This method is running from Before Class
+18:54:10.792 INFO  TestNGMultiBrowserAndParallelTest -Loading config.properties file
+18:54:10.821 INFO  TestNGMultiBrowserAndParallelTest -Get Instance for Extent Reports
+18:54:10.821 INFO  TestBase -Launching Chrome browser
+18:54:24.590 INFO  HomePage -PageFactory initialization for locating elements
+18:54:25.723 INFO  HomePage -Browser maximized
+18:54:25.726 INFO  HomePage -Implicit wait method called
+18:54:25.726 INFO  HomePage -loading the given url
+18:54:35.170 INFO  HomePage -Wait for 4 secs
+18:54:36.121 INFO  HomePage -Clicked on close button and back to site
+18:54:36.460 INFO  HomePage -Clicked on signup link
+18:54:36.707 INFO  HomePage -Clicked on login link
+18:54:36.930 INFO  HomePage -Entered username
+18:54:37.052 INFO  HomePage -Entered password
+18:54:37.187 INFO  HomePage -Clicked on GoButton and Navigating to Practice page 
+18:54:41.188 INFO  HomePage -Wait for 4 secs
+18:54:45.190 INFO  HomePage -Wait for 4 secs
+18:54:45.190 INFO  HomePage -Navigating to Practice page
+18:54:52.389 INFO  HomePage -Wait for 4 secs
+18:54:52.389 INFO  HomePage -Inside method Select multiple checkox
+18:54:52.713 INFO  TestNGMultiBrowserAndParallelTest -Verified all checkboxes are selected
+18:54:56.716 INFO  HomePage -Wait for 4 secs
+18:54:56.716 INFO  HomePage -Inside Validate checkbox method
+18:54:56.820 INFO  TestNGMultiBrowserAndParallelTest -Validated texts of checkboxes
+18:55:46.068 INFO  TestNGMultiBrowserAndParallelTest -Loading config.properties file
+18:55:46.089 INFO  TestNGMultiBrowserAndParallelTest -Loading config.properties file
+18:55:46.119 INFO  TestNGMultiBrowserAndParallelTest -This method is running from Before Class
+18:55:46.120 INFO  TestNGMultiBrowserAndParallelTest -This method is running from Before Class
+18:55:46.121 INFO  TestNGMultiBrowserAndParallelTest -Loading config.properties file
+18:55:46.121 INFO  TestNGMultiBrowserAndParallelTest -Loading config.properties file
+18:55:46.322 INFO  TestNGMultiBrowserAndParallelTest -Get Instance for Extent Reports
+18:55:46.323 INFO  TestBase -Launching Firefox browser
+18:55:46.323 INFO  TestNGMultiBrowserAndParallelTest -Get Instance for Extent Reports
+18:55:46.324 INFO  TestBase -Launching Chrome browser
+18:55:52.274 INFO  HomePage -PageFactory initialization for locating elements
+18:55:53.426 INFO  HomePage -Browser maximized
+18:55:53.437 INFO  HomePage -Implicit wait method called
+18:55:53.438 INFO  HomePage -loading the given url
+18:55:56.400 INFO  HomePage -PageFactory initialization for locating elements
+18:55:56.410 INFO  HomePage -Browser maximized
+18:55:58.151 INFO  HomePage -Implicit wait method called
+18:55:58.152 INFO  HomePage -loading the given url
+18:56:06.945 INFO  HomePage -Wait for 4 secs
+18:56:08.496 INFO  HomePage -Clicked on close button and back to site
+18:56:41.092 INFO  HomePage -Wait for 4 secs
+18:56:41.424 INFO  HomePage -Wait for 4 secs
+18:56:41.424 INFO  HomePage -Navigating to Practice page
+18:56:41.730 INFO  HomePage -Clicked on close button and back to site
+18:56:42.260 INFO  HomePage -Clicked on signup link
+18:56:42.748 INFO  HomePage -Clicked on login link
+18:56:42.961 INFO  HomePage -Entered username
+18:56:43.016 INFO  HomePage -Entered password
+18:56:43.291 INFO  HomePage -Clicked on GoButton and Navigating to Practice page 
+18:56:46.848 INFO  HomePage -Wait for 4 secs
+18:56:46.848 INFO  HomePage -Inside method Select multiple checkox
+18:56:47.291 INFO  HomePage -Wait for 4 secs
+18:56:51.304 INFO  HomePage -Wait for 4 secs
+18:56:51.304 INFO  HomePage -Navigating to Practice page
+18:57:10.058 INFO  HomePage -Wait for 4 secs
+18:57:10.058 INFO  HomePage -Inside method Select multiple checkox
+18:57:10.907 INFO  TestNGMultiBrowserAndParallelTest -Verified all checkboxes are selected
+18:57:11.021 INFO  HomePage -Wait for 4 secs
+18:57:11.021 INFO  HomePage -Inside Validate checkbox method
+18:57:14.910 INFO  HomePage -Wait for 4 secs
+18:57:14.910 INFO  HomePage -Inside Validate checkbox method
+18:57:14.957 INFO  TestNGMultiBrowserAndParallelTest -Validated texts of checkboxes
+18:58:10.304 INFO  TestNGMultiBrowserAndParallelTest -Loading config.properties file
+18:58:10.333 INFO  TestNGMultiBrowserAndParallelTest -Loading config.properties file
+18:58:10.380 INFO  TestNGMultiBrowserAndParallelTest -This method is running from Before Class
+18:58:10.380 INFO  TestNGMultiBrowserAndParallelTest -This method is running from Before Class
+18:58:10.382 INFO  TestNGMultiBrowserAndParallelTest -Loading config.properties file
+18:58:10.382 INFO  TestNGMultiBrowserAndParallelTest -Loading config.properties file
+18:58:10.697 INFO  TestNGMultiBrowserAndParallelTest -Get Instance for Extent Reports
+18:58:10.697 INFO  TestNGMultiBrowserAndParallelTest -Get Instance for Extent Reports
+18:58:10.697 INFO  TestBase -Launching Chrome browser
+18:58:10.697 INFO  TestBase -Launching Firefox browser
+18:58:17.150 INFO  HomePage -PageFactory initialization for locating elements
+18:58:18.306 INFO  HomePage -Browser maximized
+18:58:18.355 INFO  HomePage -Implicit wait method called
+18:58:18.356 INFO  HomePage -loading the given url
+18:58:26.709 INFO  HomePage -PageFactory initialization for locating elements
+18:58:26.718 INFO  HomePage -Browser maximized
+18:58:26.729 INFO  HomePage -Implicit wait method called
+18:58:26.729 INFO  HomePage -loading the given url
+18:58:34.349 INFO  HomePage -Wait for 4 secs
+18:58:35.379 INFO  HomePage -Clicked on close button and back to site
+18:58:35.802 INFO  HomePage -Clicked on signup link
+18:58:36.057 INFO  HomePage -Clicked on login link
+18:58:36.294 INFO  HomePage -Entered username
+18:58:36.437 INFO  HomePage -Entered password
+18:58:36.540 INFO  HomePage -Clicked on GoButton and Navigating to Practice page 
+18:58:40.540 INFO  HomePage -Wait for 4 secs
+18:58:44.547 INFO  HomePage -Wait for 4 secs
+18:58:44.547 INFO  HomePage -Navigating to Practice page
+18:58:49.466 INFO  HomePage -Wait for 4 secs
+18:58:54.312 INFO  HomePage -Wait for 4 secs
+18:58:54.312 INFO  HomePage -Inside method Select multiple checkox
+18:58:54.655 INFO  TestNGMultiBrowserAndParallelTest -Verified all checkboxes are selected
+18:58:58.659 INFO  HomePage -Wait for 4 secs
+18:58:58.659 INFO  HomePage -Inside Validate checkbox method
+18:58:58.770 INFO  TestNGMultiBrowserAndParallelTest -Validated texts of checkboxes
+19:01:37.911 INFO  TestNGMultiBrowserAndParallelTest -Loading config.properties file
+19:01:37.934 INFO  TestNGMultiBrowserAndParallelTest -Loading config.properties file
+19:01:37.962 INFO  TestNGMultiBrowserAndParallelTest -This method is running from Before Class
+19:01:37.962 INFO  TestNGMultiBrowserAndParallelTest -This method is running from Before Class
+19:01:37.964 INFO  TestNGMultiBrowserAndParallelTest -Loading config.properties file
+19:01:37.964 INFO  TestNGMultiBrowserAndParallelTest -Loading config.properties file
+19:01:38.212 INFO  TestNGMultiBrowserAndParallelTest -Get Instance for Extent Reports
+19:01:38.212 INFO  TestBase -Launching Firefox browser
+19:01:38.212 INFO  TestNGMultiBrowserAndParallelTest -Get Instance for Extent Reports
+19:01:38.213 INFO  TestBase -Launching Chrome browser
+19:01:44.730 INFO  HomePage -PageFactory initialization for locating elements
+19:01:45.871 INFO  HomePage -Browser maximized
+19:01:45.877 INFO  HomePage -Implicit wait method called
+19:01:45.877 INFO  HomePage -loading the given url
+19:01:50.434 INFO  HomePage -PageFactory initialization for locating elements
+19:01:50.441 INFO  HomePage -Browser maximized
+19:01:50.449 INFO  HomePage -Implicit wait method called
+19:01:50.449 INFO  HomePage -loading the given url
+19:01:59.338 INFO  HomePage -Wait for 4 secs
+19:02:01.330 INFO  HomePage -Clicked on close button and back to site
+19:02:01.961 INFO  HomePage -Clicked on signup link
+19:02:02.280 INFO  HomePage -Clicked on login link
+19:02:02.632 INFO  HomePage -Entered username
+19:02:02.801 INFO  HomePage -Entered password
+19:02:02.918 INFO  HomePage -Clicked on GoButton and Navigating to Practice page 
+19:02:06.918 INFO  HomePage -Wait for 4 secs
+19:02:06.933 INFO  HomePage -Navigating to Practice page
+19:02:11.809 INFO  HomePage -Inside method Select multiple checkox
+19:02:12.830 INFO  TestNGMultiBrowserAndParallelTest -Verified all checkboxes are selected
+19:02:12.833 INFO  HomePage -Inside Validate checkbox method
+19:02:12.982 INFO  TestNGMultiBrowserAndParallelTest -Validated texts of checkboxes
+19:02:49.080 INFO  HomePage -Wait for 4 secs
+19:03:44.840 INFO  TestNGMultiBrowserAndParallelTest -Loading config.properties file
+19:03:44.863 INFO  TestNGMultiBrowserAndParallelTest -Loading config.properties file
+19:03:44.895 INFO  TestNGMultiBrowserAndParallelTest -This method is running from Before Class
+19:03:44.895 INFO  TestNGMultiBrowserAndParallelTest -This method is running from Before Class
+19:03:44.897 INFO  TestNGMultiBrowserAndParallelTest -Loading config.properties file
+19:03:44.897 INFO  TestNGMultiBrowserAndParallelTest -Loading config.properties file
+19:03:45.174 INFO  TestNGMultiBrowserAndParallelTest -Get Instance for Extent Reports
+19:03:45.174 INFO  TestNGMultiBrowserAndParallelTest -Get Instance for Extent Reports
+19:03:45.174 INFO  TestBase -Launching Firefox browser
+19:03:45.174 INFO  TestBase -Launching Chrome browser
+19:03:51.434 INFO  HomePage -PageFactory initialization for locating elements
+19:03:52.587 INFO  HomePage -Browser maximized
+19:03:52.593 INFO  HomePage -Implicit wait method called
+19:03:52.594 INFO  HomePage -loading the given url
+19:03:55.257 INFO  HomePage -PageFactory initialization for locating elements
+19:03:58.481 INFO  HomePage -Browser maximized
+19:03:58.500 INFO  HomePage -Implicit wait method called
+19:03:58.500 INFO  HomePage -loading the given url
+19:04:06.610 INFO  HomePage -Wait for 4 secs
+19:04:10.246 INFO  HomePage -Clicked on close button and back to site
+19:04:10.753 INFO  HomePage -Clicked on signup link
+19:04:11.108 INFO  HomePage -Clicked on login link
+19:04:11.527 INFO  HomePage -Entered username
+19:04:11.740 INFO  HomePage -Entered password
+19:04:11.894 INFO  HomePage -Clicked on GoButton and Navigating to Practice page 
+19:04:15.894 INFO  HomePage -Wait for 4 secs
+19:04:15.906 INFO  HomePage -Navigating to Practice page
+19:04:20.204 INFO  HomePage -Inside method Select multiple checkox
+19:04:21.817 INFO  TestNGMultiBrowserAndParallelTest -Verified all checkboxes are selected
+19:04:21.821 INFO  HomePage -Inside Validate checkbox method
+19:04:21.984 INFO  TestNGMultiBrowserAndParallelTest -Validated texts of checkboxes
+19:04:30.460 INFO  HomePage -Wait for 4 secs
+19:06:07.004 INFO  TestNGMultiBrowserAndParallelTest -Loading config.properties file
+19:06:07.034 INFO  TestNGMultiBrowserAndParallelTest -Loading config.properties file
+19:06:07.078 INFO  TestNGMultiBrowserAndParallelTest -This method is running from Before Class
+19:06:07.078 INFO  TestNGMultiBrowserAndParallelTest -This method is running from Before Class
+19:06:07.080 INFO  TestNGMultiBrowserAndParallelTest -Loading config.properties file
+19:06:07.080 INFO  TestNGMultiBrowserAndParallelTest -Loading config.properties file
+19:06:07.409 INFO  TestNGMultiBrowserAndParallelTest -Get Instance for Extent Reports
+19:06:07.410 INFO  TestBase -Launching Firefox browser
+19:06:07.411 INFO  TestNGMultiBrowserAndParallelTest -Get Instance for Extent Reports
+19:06:07.411 INFO  TestBase -Launching Chrome browser
+19:06:15.113 INFO  HomePage -PageFactory initialization for locating elements
+19:06:16.274 INFO  HomePage -Browser maximized
+19:06:16.284 INFO  HomePage -Implicit wait method called
+19:06:16.284 INFO  HomePage -loading the given url
+19:06:20.359 INFO  HomePage -PageFactory initialization for locating elements
+19:06:20.374 INFO  HomePage -Browser maximized
+19:06:20.392 INFO  HomePage -Implicit wait method called
+19:06:20.392 INFO  HomePage -loading the given url
+19:06:33.842 INFO  HomePage -Wait for 4 secs
+19:06:35.649 INFO  HomePage -Clicked on close button and back to site
+19:06:36.295 INFO  HomePage -Clicked on signup link
+19:06:36.681 INFO  HomePage -Clicked on login link
+19:06:37.127 INFO  HomePage -Entered username
+19:06:37.367 INFO  HomePage -Entered password
+19:06:37.540 INFO  HomePage -Clicked on GoButton and Navigating to Practice page 
+19:06:41.541 INFO  HomePage -Wait for 4 secs
+19:06:41.553 INFO  HomePage -Navigating to Practice page
+19:06:45.418 INFO  HomePage -Inside method Select multiple checkox
+19:06:47.037 INFO  TestNGMultiBrowserAndParallelTest -Verified all checkboxes are selected
+19:06:47.041 INFO  HomePage -Inside Validate checkbox method
+19:06:47.175 INFO  TestNGMultiBrowserAndParallelTest -Validated texts of checkboxes
+19:07:21.496 INFO  HomePage -Wait for 4 secs
+19:16:03.099 INFO  TestNGMultiBrowserAndParallelTest -Loading config.properties file
+19:16:03.124 INFO  TestNGMultiBrowserAndParallelTest -Loading config.properties file
+19:16:03.157 INFO  TestNGMultiBrowserAndParallelTest -This method is running from Before Class
+19:16:03.157 INFO  TestNGMultiBrowserAndParallelTest -This method is running from Before Class
+19:16:03.159 INFO  TestNGMultiBrowserAndParallelTest -Loading config.properties file
+19:16:03.159 INFO  TestNGMultiBrowserAndParallelTest -Loading config.properties file
+19:16:03.446 INFO  TestNGMultiBrowserAndParallelTest -Get Instance for Extent Reports
+19:16:03.446 INFO  TestBase -Launching Chrome browser
+19:16:03.447 INFO  TestNGMultiBrowserAndParallelTest -Get Instance for Extent Reports
+19:16:03.448 INFO  TestBase -Launching Firefox browser
+19:16:13.632 INFO  HomePage -PageFactory initialization for locating elements
+19:16:14.775 INFO  HomePage -Browser maximized
+19:16:14.780 INFO  HomePage -PageFactory initialization for locating elements
+19:16:14.789 INFO  HomePage -Implicit wait method called
+19:16:14.789 INFO  HomePage -loading the given url
+19:16:14.796 INFO  HomePage -Browser maximized
+19:17:15.171 INFO  HomePage -Implicit wait method called
+19:17:15.172 INFO  HomePage -loading the given url
+19:17:19.184 INFO  HomePage -Wait for 4 secs
+19:17:28.438 INFO  HomePage -Wait for 4 secs
+19:17:33.766 INFO  HomePage -Navigating to Practice page
+19:17:46.819 INFO  HomePage -Inside method Select multiple checkox
+19:17:50.563 INFO  HomePage -Clicked on close button and back to site
+19:17:50.829 INFO  HomePage -Inside Validate checkbox method
+19:17:51.253 INFO  HomePage -Clicked on signup link
+19:17:54.546 INFO  HomePage -Clicked on login link
+19:18:43.784 INFO  TestNGMultiBrowserAndParallelTest -Loading config.properties file
+19:18:43.806 INFO  TestNGMultiBrowserAndParallelTest -Loading config.properties file
+19:18:43.837 INFO  TestNGMultiBrowserAndParallelTest -This method is running from Before Class
+19:18:43.837 INFO  TestNGMultiBrowserAndParallelTest -This method is running from Before Class
+19:18:43.839 INFO  TestNGMultiBrowserAndParallelTest -Loading config.properties file
+19:18:43.839 INFO  TestNGMultiBrowserAndParallelTest -Loading config.properties file
+19:18:44.109 INFO  TestNGMultiBrowserAndParallelTest -Get Instance for Extent Reports
+19:18:44.110 INFO  TestBase -Launching Firefox browser
+19:18:44.110 INFO  TestNGMultiBrowserAndParallelTest -Get Instance for Extent Reports
+19:18:44.110 INFO  TestBase -Launching Chrome browser
+19:18:53.897 INFO  HomePage -PageFactory initialization for locating elements
+19:18:54.776 INFO  HomePage -PageFactory initialization for locating elements
+19:18:54.823 INFO  HomePage -Browser maximized
+19:18:54.831 INFO  HomePage -Implicit wait method called
+19:18:54.831 INFO  HomePage -loading the given url
+19:18:55.044 INFO  HomePage -Browser maximized
+19:19:48.434 INFO  HomePage -Implicit wait method called
+19:19:48.434 INFO  HomePage -loading the given url
+19:19:52.446 INFO  HomePage -Wait for 4 secs
+19:20:04.827 INFO  HomePage -Wait for 4 secs
+19:20:21.201 INFO  HomePage -Navigating to Practice page
+19:20:22.258 INFO  HomePage -Clicked on close button and back to site
+19:20:22.584 INFO  HomePage -Inside method Select multiple checkox
+19:20:22.945 INFO  HomePage -Clicked on signup link
+19:20:23.070 INFO  HomePage -Inside Validate checkbox method
+19:20:23.589 INFO  HomePage -Clicked on login link
+19:20:23.869 INFO  HomePage -Entered username
+19:21:13.080 INFO  TestNGMultiBrowserAndParallelTest -Loading config.properties file
+19:21:13.114 INFO  TestNGMultiBrowserAndParallelTest -Loading config.properties file
+19:21:13.151 INFO  TestNGMultiBrowserAndParallelTest -This method is running from Before Class
+19:21:13.153 INFO  TestNGMultiBrowserAndParallelTest -Loading config.properties file
+19:21:13.487 INFO  TestNGMultiBrowserAndParallelTest -Get Instance for Extent Reports
+19:21:13.489 INFO  TestBase -Launching Firefox browser
+19:21:50.190 INFO  TestNGMultiBrowserAndParallelTest -This method is running from Before Class
+19:21:50.193 INFO  TestNGMultiBrowserAndParallelTest -Loading config.properties file
+19:21:50.289 INFO  TestNGMultiBrowserAndParallelTest -Get Instance for Extent Reports
+19:21:50.289 INFO  TestBase -Launching Chrome browser
+19:24:45.242 INFO  TestNGMultiBrowserAndParallelTest -Loading config.properties file
+19:24:45.265 INFO  TestNGMultiBrowserAndParallelTest -Loading config.properties file
+19:24:45.308 INFO  TestNGMultiBrowserAndParallelTest -This method is running from Before Class
+19:24:45.308 INFO  TestNGMultiBrowserAndParallelTest -This method is running from Before Class
+19:24:45.310 INFO  TestNGMultiBrowserAndParallelTest -Loading config.properties file
+19:24:45.310 INFO  TestNGMultiBrowserAndParallelTest -Loading config.properties file
+19:24:45.597 INFO  TestNGMultiBrowserAndParallelTest -Get Instance for Extent Reports
+19:24:45.598 INFO  TestBase -Launching Firefox browser
+19:24:45.598 INFO  TestNGMultiBrowserAndParallelTest -Get Instance for Extent Reports
+19:24:45.598 INFO  TestBase -Launching Chrome browser
+19:24:54.547 INFO  HomePage -PageFactory initialization for locating elements
+19:24:55.698 INFO  HomePage -Browser maximized
+19:24:55.706 INFO  HomePage -Implicit wait method called
+19:24:55.706 INFO  HomePage -loading the given url
+19:24:56.453 INFO  HomePage -PageFactory initialization for locating elements
+19:24:56.461 INFO  HomePage -Browser maximized
+19:24:56.467 INFO  HomePage -Implicit wait method called
+19:24:56.467 INFO  HomePage -loading the given url
+19:25:09.415 INFO  HomePage -Wait for 4 secs
+19:25:13.695 INFO  HomePage -Clicked on close button and back to site
+19:25:13.999 INFO  HomePage -Clicked on signup link
+19:25:14.228 INFO  HomePage -Clicked on login link
+19:25:14.490 INFO  HomePage -Entered username
+19:25:14.624 INFO  HomePage -Entered password
+19:25:14.714 INFO  HomePage -Clicked on GoButton and Navigating to Practice page 
+19:25:18.714 INFO  HomePage -Wait for 4 secs
+19:25:18.719 INFO  HomePage -Navigating to Practice page
+19:25:23.502 INFO  HomePage -Inside method Select multiple checkox
+19:25:24.387 INFO  TestNGMultiBrowserAndParallelTest -Verified all checkboxes are selected
+19:25:24.394 INFO  HomePage -Inside Validate checkbox method
+19:25:24.581 INFO  TestNGMultiBrowserAndParallelTest -Validated texts of checkboxes
+19:25:57.414 INFO  HomePage -Wait for 4 secs
+19:26:51.758 INFO  TestNGMultiBrowserAndParallelTest -Loading config.properties file
+19:26:51.781 INFO  TestNGMultiBrowserAndParallelTest -Loading config.properties file
+19:26:51.811 INFO  TestNGMultiBrowserAndParallelTest -This method is running from Before Class
+19:26:51.812 INFO  TestNGMultiBrowserAndParallelTest -Loading config.properties file
+19:26:52.095 INFO  TestNGMultiBrowserAndParallelTest -Get Instance for Extent Reports
+19:26:52.095 INFO  TestBase -Launching Firefox browser
+19:27:01.953 INFO  HomePage -PageFactory initialization for locating elements
+19:27:01.966 INFO  HomePage -Browser maximized
+19:27:01.975 INFO  HomePage -Implicit wait method called
+19:27:01.975 INFO  HomePage -loading the given url
+19:28:00.781 INFO  HomePage -Wait for 4 secs
+19:28:05.839 INFO  HomePage -Clicked on close button and back to site
+19:28:06.322 INFO  HomePage -Clicked on signup link
+19:28:06.864 INFO  HomePage -Clicked on login link
+19:28:07.063 INFO  HomePage -Entered username
+19:28:07.145 INFO  HomePage -Entered password
+19:28:07.825 INFO  HomePage -Clicked on GoButton and Navigating to Practice page 
+19:28:11.826 INFO  HomePage -Wait for 4 secs
+19:28:11.844 INFO  HomePage -Navigating to Practice page
+19:28:32.828 INFO  HomePage -Inside method Select multiple checkox
+19:28:33.833 INFO  TestNGMultiBrowserAndParallelTest -Verified all checkboxes are selected
+19:28:33.842 INFO  HomePage -Inside Validate checkbox method
+19:28:33.966 INFO  TestNGMultiBrowserAndParallelTest -Validated texts of checkboxes
+19:28:46.260 INFO  TestNGMultiBrowserAndParallelTest -This method is running from Before Class
+19:28:46.263 INFO  TestNGMultiBrowserAndParallelTest -Loading config.properties file
+19:28:46.324 INFO  TestNGMultiBrowserAndParallelTest -Get Instance for Extent Reports
+19:28:46.324 INFO  TestBase -Launching Chrome browser
+19:29:04.654 INFO  HomePage -PageFactory initialization for locating elements
+19:29:05.786 INFO  HomePage -Browser maximized
+19:29:05.790 INFO  HomePage -Implicit wait method called
+19:29:05.791 INFO  HomePage -loading the given url
+19:29:13.476 INFO  HomePage -Wait for 4 secs
+19:29:16.267 INFO  HomePage -Clicked on close button and back to site
+19:29:16.606 INFO  HomePage -Clicked on signup link
+19:29:16.811 INFO  HomePage -Clicked on login link
+19:29:17.085 INFO  HomePage -Entered username
+19:29:17.413 INFO  HomePage -Entered password
+19:29:17.502 INFO  HomePage -Clicked on GoButton and Navigating to Practice page 
+19:29:21.503 INFO  HomePage -Wait for 4 secs
+19:29:21.517 INFO  HomePage -Navigating to Practice page
+19:29:25.784 INFO  HomePage -Inside method Select multiple checkox
+19:29:27.102 INFO  TestNGMultiBrowserAndParallelTest -Verified all checkboxes are selected
+19:29:27.105 INFO  HomePage -Inside Validate checkbox method
+19:29:27.345 INFO  TestNGMultiBrowserAndParallelTest -Validated texts of checkboxes
+19:31:17.943 INFO  TestNGMultiBrowserAndParallelTest -Loading config.properties file
+19:31:17.983 INFO  TestNGMultiBrowserAndParallelTest -This method is running from Before Class
+19:31:17.985 INFO  TestNGMultiBrowserAndParallelTest -Loading config.properties file
+19:31:18.286 INFO  TestNGMultiBrowserAndParallelTest -Get Instance for Extent Reports
+19:31:18.286 INFO  TestBase -Launching Firefox browser
+19:31:27.280 INFO  HomePage -PageFactory initialization for locating elements
+19:31:28.310 INFO  HomePage -Browser maximized
+19:31:28.320 INFO  HomePage -Implicit wait method called
+19:31:28.320 INFO  HomePage -loading the given url
+19:31:59.552 INFO  HomePage -Wait for 4 secs
+19:32:17.167 INFO  HomePage -Clicked on signup link
+19:32:25.708 INFO  HomePage -Clicked on login link
+19:32:26.319 INFO  HomePage -Entered username
+19:32:26.431 INFO  HomePage -Entered password
+19:32:31.270 INFO  HomePage -Clicked on GoButton and Navigating to Practice page 
+19:32:35.271 INFO  HomePage -Wait for 4 secs
+19:32:35.277 INFO  HomePage -Navigating to Practice page
+19:32:36.068 INFO  HomePage -Inside method Select multiple checkox
+19:32:56.646 INFO  HomePage -Inside Validate checkbox method
+19:40:31.907 INFO  TestNGMultiBrowserAndParallelTest -Loading config.properties file
+19:40:31.946 INFO  TestNGMultiBrowserAndParallelTest -This method is running from Before Class
+19:40:31.949 INFO  TestNGMultiBrowserAndParallelTest -Loading config.properties file
+19:40:32.370 INFO  TestNGMultiBrowserAndParallelTest -Get Instance for Extent Reports
+19:40:32.370 INFO  TestBase -Launching Firefox browser
+19:40:41.560 INFO  HomePage -PageFactory initialization for locating elements
+19:40:41.578 INFO  HomePage -Browser maximized
+19:40:41.587 INFO  HomePage -Implicit wait method called
+19:40:41.587 INFO  HomePage -loading the given url
+19:41:27.732 INFO  HomePage -Navigating to Practice page
+19:41:32.251 INFO  HomePage -Inside method Select multiple checkox
+19:41:52.579 INFO  HomePage -Inside Validate checkbox method
+19:44:40.170 INFO  TestNGMultiBrowserAndParallelTest -Loading config.properties file
+19:44:40.210 INFO  TestNGMultiBrowserAndParallelTest -This method is running from Before Class
+19:44:40.211 INFO  TestNGMultiBrowserAndParallelTest -Loading config.properties file
+19:44:40.593 INFO  TestNGMultiBrowserAndParallelTest -Get Instance for Extent Reports
+19:44:40.593 INFO  TestBase -Launching Firefox browser
+19:44:50.319 INFO  HomePage -PageFactory initialization for locating elements
+19:44:50.337 INFO  HomePage -Browser maximized
+19:44:50.346 INFO  HomePage -Implicit wait method called
+19:44:50.346 INFO  HomePage -loading the given url
+19:45:33.792 INFO  HomePage -Navigating to Practice page
+19:45:48.083 INFO  HomePage -Inside method Select multiple checkox
+19:45:59.410 INFO  TestNGMultiBrowserAndParallelTest -Verified all checkboxes are selected
+19:45:59.413 INFO  HomePage -Inside Validate checkbox method
+19:46:00.154 INFO  TestNGMultiBrowserAndParallelTest -Validated texts of checkboxes
+19:49:34.565 INFO  TestNGMultiBrowserAndParallelTest -Loading config.properties file
+19:49:34.603 INFO  TestNGMultiBrowserAndParallelTest -This method is running from Before Class
+19:49:34.605 INFO  TestNGMultiBrowserAndParallelTest -Loading config.properties file
+19:49:34.947 INFO  TestNGMultiBrowserAndParallelTest -Get Instance for Extent Reports
+19:49:34.947 INFO  TestBase -Launching Firefox browser
+19:49:44.069 INFO  HomePage -PageFactory initialization for locating elements
+19:49:44.085 INFO  HomePage -Browser maximized
+19:49:44.093 INFO  HomePage -Implicit wait method called
+19:49:44.093 INFO  HomePage -loading the given url
+19:50:20.717 INFO  HomePage -Navigating to Practice page
+19:50:40.231 INFO  HomePage -Inside method Select multiple checkox
+19:50:53.832 INFO  TestNGMultiBrowserAndParallelTest -Verified all checkboxes are selected
+19:50:53.835 INFO  HomePage -Inside Validate checkbox method
+19:50:54.390 INFO  TestNGMultiBrowserAndParallelTest -Validated texts of checkboxes
+19:52:47.381 INFO  TestNGMultiBrowserAndParallelTest -Loading config.properties file
+19:52:47.429 INFO  TestNGMultiBrowserAndParallelTest -This method is running from Before Class
+19:52:47.432 INFO  TestNGMultiBrowserAndParallelTest -Loading config.properties file
+19:52:47.777 INFO  TestNGMultiBrowserAndParallelTest -Get Instance for Extent Reports
+19:52:47.777 INFO  TestBase -Launching Chrome browser
+19:52:55.884 INFO  HomePage -PageFactory initialization for locating elements
+19:52:57.026 INFO  HomePage -Browser maximized
+19:52:57.033 INFO  HomePage -Implicit wait method called
+19:52:57.033 INFO  HomePage -loading the given url
+19:53:09.786 INFO  HomePage -Wait for 5 secs
+19:53:10.563 INFO  HomePage -Clicked on close button and back to site
+19:53:10.933 INFO  HomePage -Clicked on signup link
+19:53:11.196 INFO  HomePage -Clicked on login link
+19:53:11.506 INFO  HomePage -Entered username
+19:53:11.638 INFO  HomePage -Entered password
+19:53:11.768 INFO  HomePage -Clicked on GoButton and Navigating to Practice page 
+19:53:16.768 INFO  HomePage -Wait for 5 secs
+19:53:16.773 INFO  HomePage -Navigating to Practice page
+19:53:21.594 INFO  HomePage -Inside method Select multiple checkox
+19:53:22.146 INFO  TestNGMultiBrowserAndParallelTest -Verified all checkboxes are selected
+19:53:22.148 INFO  HomePage -Inside Validate checkbox method
+19:53:22.366 INFO  TestNGMultiBrowserAndParallelTest -Validated texts of checkboxes
+19:54:24.094 INFO  TestNGMultiBrowserAndParallelTest -Loading config.properties file
+19:54:24.151 INFO  TestNGMultiBrowserAndParallelTest -This method is running from Before Class
+19:54:24.153 INFO  TestNGMultiBrowserAndParallelTest -Loading config.properties file
+19:54:24.606 INFO  TestNGMultiBrowserAndParallelTest -Get Instance for Extent Reports
+19:54:24.606 INFO  TestBase -Launching Firefox browser
+19:54:33.710 INFO  HomePage -PageFactory initialization for locating elements
+19:54:33.724 INFO  HomePage -Browser maximized
+19:54:33.734 INFO  HomePage -Implicit wait method called
+19:54:33.734 INFO  HomePage -loading the given url
+19:55:19.273 INFO  HomePage -Wait for 5 secs
+19:55:20.487 INFO  HomePage -Clicked on close button and back to site
+19:55:20.951 INFO  HomePage -Clicked on signup link
+19:55:21.804 INFO  HomePage -Clicked on login link
+19:55:21.957 INFO  HomePage -Entered username
+19:55:22.020 INFO  HomePage -Entered password
+19:55:22.292 INFO  HomePage -Clicked on GoButton and Navigating to Practice page 
+19:55:27.293 INFO  HomePage -Wait for 5 secs
+19:55:27.302 INFO  HomePage -Navigating to Practice page
+19:55:48.692 INFO  HomePage -Inside method Select multiple checkox
+19:55:49.645 INFO  TestNGMultiBrowserAndParallelTest -Verified all checkboxes are selected
+19:55:49.648 INFO  HomePage -Inside Validate checkbox method
+19:55:49.739 INFO  TestNGMultiBrowserAndParallelTest -Validated texts of checkboxes
+19:58:31.710 INFO  TestNGMultiBrowserAndParallelTest -Loading config.properties file
+19:58:31.748 INFO  TestNGMultiBrowserAndParallelTest -This method is running from Before Class
+19:58:31.750 INFO  TestNGMultiBrowserAndParallelTest -Loading config.properties file
+19:58:32.152 INFO  TestNGMultiBrowserAndParallelTest -Get Instance for Extent Reports
+19:58:32.153 INFO  TestBase -Launching Chrome browser
+20:24:52.420 INFO  TestNGMultiBrowserAndParallelTest -Loading config.properties file
+20:24:52.459 INFO  TestNGMultiBrowserAndParallelTest -This method is running from Before Class
+20:24:52.460 INFO  TestNGMultiBrowserAndParallelTest -Loading config.properties file
+20:24:52.884 INFO  TestNGMultiBrowserAndParallelTest -Get Instance for Extent Reports
+20:24:52.884 INFO  TestBase -Launching Chrome browser
+20:25:04.032 INFO  HomePage -PageFactory initialization for locating elements
+20:25:05.172 INFO  HomePage -Browser maximized
+20:25:05.177 INFO  HomePage -Implicit wait method called
+20:25:05.177 INFO  HomePage -loading the given url
+20:25:19.283 INFO  HomePage -Wait for 5 secs
+20:25:19.690 INFO  HomePage -Clicked on close button and back to site
+20:25:20.040 INFO  HomePage -Clicked on signup link
+20:25:20.252 INFO  HomePage -Clicked on login link
+20:25:20.522 INFO  HomePage -Entered username
+20:25:20.727 INFO  HomePage -Entered password
+20:25:20.848 INFO  HomePage -Clicked on GoButton and Navigating to Practice page 
+20:25:25.848 INFO  HomePage -Wait for 5 secs
+20:25:25.856 INFO  HomePage -Navigating to Practice page
+20:25:30.752 INFO  HomePage -Inside method Select multiple checkox
+20:25:31.417 INFO  TestNGMultiBrowserAndParallelTest -Verified all checkboxes are selected
+20:25:31.418 INFO  HomePage -Inside Validate checkbox method
+20:25:31.573 INFO  TestNGMultiBrowserAndParallelTest -Validated texts of checkboxes
+20:29:25.450 INFO  TestNGMultiBrowserAndParallelTest -Loading config.properties file
+20:29:25.489 INFO  TestNGMultiBrowserAndParallelTest -This method is running from Before Class
+20:29:25.491 INFO  TestNGMultiBrowserAndParallelTest -Loading config.properties file
+20:29:25.877 INFO  TestNGMultiBrowserAndParallelTest -Get Instance for Extent Reports
+20:29:25.877 INFO  TestBase -Launching Firefox browser
+20:29:35.243 INFO  HomePage -PageFactory initialization for locating elements
+20:29:36.370 INFO  HomePage -Browser maximized
+20:29:36.379 INFO  HomePage -Implicit wait method called
+20:29:36.380 INFO  HomePage -loading the given url
+20:30:07.188 INFO  HomePage -Wait for 5 secs
+20:30:24.198 INFO  HomePage -Clicked on signup link
+20:30:34.622 INFO  HomePage -Clicked on login link
+20:30:35.035 INFO  HomePage -Entered username
+20:30:35.173 INFO  HomePage -Entered password
+20:30:40.896 INFO  HomePage -Clicked on GoButton and Navigating to Practice page 
+20:30:45.897 INFO  HomePage -Wait for 5 secs
+20:30:45.904 INFO  HomePage -Navigating to Practice page
+20:30:51.255 INFO  HomePage -Wait for 5 secs
+20:30:51.255 INFO  HomePage -Inside method Select multiple checkox
+20:31:11.512 INFO  HomePage -Inside Validate checkbox method
+20:32:40.377 INFO  TestNGMultiBrowserAndParallelTest -Loading config.properties file
+20:32:40.422 INFO  TestNGMultiBrowserAndParallelTest -This method is running from Before Class
+20:32:40.424 INFO  TestNGMultiBrowserAndParallelTest -Loading config.properties file
+20:32:40.864 INFO  TestNGMultiBrowserAndParallelTest -Get Instance for Extent Reports
+20:32:40.865 INFO  TestBase -Launching Firefox browser
+20:32:50.247 INFO  HomePage -PageFactory initialization for locating elements
+20:32:50.497 INFO  HomePage -Browser maximized
+20:32:50.505 INFO  HomePage -Implicit wait method called
+20:32:50.506 INFO  HomePage -loading the given url
+20:33:27.372 INFO  HomePage -Wait for 5 secs
+20:33:42.496 INFO  HomePage -Clicked on signup link
+20:33:49.009 INFO  HomePage -Clicked on login link
+20:33:49.324 INFO  HomePage -Entered username
+20:33:49.685 INFO  HomePage -Entered password
+20:33:50.701 INFO  HomePage -Clicked on GoButton and Navigating to Practice page 
+20:33:55.703 INFO  HomePage -Wait for 5 secs
+20:33:55.712 INFO  HomePage -Navigating to Practice page
+20:34:01.368 INFO  HomePage -Wait for 5 secs
+20:34:01.368 INFO  HomePage -Inside method Select multiple checkox
+20:34:21.834 INFO  HomePage -Inside Validate checkbox method
+20:38:13.894 INFO  TestNGMultiBrowserAndParallelTest -Loading config.properties file
+20:38:13.940 INFO  TestNGMultiBrowserAndParallelTest -This method is running from Before Class
+20:38:13.942 INFO  TestNGMultiBrowserAndParallelTest -Loading config.properties file
+20:38:14.315 INFO  TestNGMultiBrowserAndParallelTest -Get Instance for Extent Reports
+20:38:14.315 INFO  TestBase -Launching Firefox browser
+20:38:25.803 INFO  HomePage -PageFactory initialization for locating elements
+20:38:25.824 INFO  HomePage -Browser maximized
+20:38:25.836 INFO  HomePage -Implicit wait method called
+20:38:25.837 INFO  HomePage -loading the given url
+20:39:20.162 INFO  HomePage -Clicked on close button and back to site
+20:39:20.766 INFO  HomePage -Clicked on signup link
+20:39:21.477 INFO  HomePage -Clicked on login link
+20:39:21.771 INFO  HomePage -Entered username
+20:39:21.892 INFO  HomePage -Entered password
+20:39:22.334 INFO  HomePage -Clicked on GoButton and Navigating to Practice page 
+20:39:27.334 INFO  HomePage -Wait for 5 secs
+20:39:27.342 INFO  HomePage -Navigating to Practice page
+20:39:54.581 INFO  HomePage -Wait for 5 secs
+20:39:54.581 INFO  HomePage -Inside method Select multiple checkox
+20:39:55.411 INFO  TestNGMultiBrowserAndParallelTest -Verified all checkboxes are selected
+20:39:55.413 INFO  HomePage -Inside Validate checkbox method
+20:39:55.497 INFO  TestNGMultiBrowserAndParallelTest -Validated texts of checkboxes
+20:41:22.335 INFO  TestNGMultiBrowserAndParallelTest -Loading config.properties file
+20:41:22.373 INFO  TestNGMultiBrowserAndParallelTest -This method is running from Before Class
+20:41:22.375 INFO  TestNGMultiBrowserAndParallelTest -Loading config.properties file
+20:41:22.756 INFO  TestNGMultiBrowserAndParallelTest -Get Instance for Extent Reports
+20:41:22.756 INFO  TestBase -Launching Chrome browser
+20:41:30.463 INFO  HomePage -PageFactory initialization for locating elements
+20:41:31.615 INFO  HomePage -Browser maximized
+20:41:31.630 INFO  HomePage -Implicit wait method called
+20:41:31.631 INFO  HomePage -loading the given url
+20:41:43.838 INFO  HomePage -Clicked on close button and back to site
+20:41:44.205 INFO  HomePage -Clicked on signup link
+20:41:44.447 INFO  HomePage -Clicked on login link
+20:41:44.738 INFO  HomePage -Entered username
+20:41:44.909 INFO  HomePage -Entered password
+20:41:45.008 INFO  HomePage -Clicked on GoButton and Navigating to Practice page 
+20:41:50.009 INFO  HomePage -Wait for 5 secs
+20:41:50.014 INFO  HomePage -Navigating to Practice page
+20:41:59.605 INFO  HomePage -Wait for 5 secs
+20:41:59.605 INFO  HomePage -Inside method Select multiple checkox
+20:42:00.149 INFO  TestNGMultiBrowserAndParallelTest -Verified all checkboxes are selected
+20:42:00.151 INFO  HomePage -Inside Validate checkbox method
+20:42:00.303 INFO  TestNGMultiBrowserAndParallelTest -Validated texts of checkboxes

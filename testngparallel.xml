@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Parallel TestSuite" parallel="tests" thread-count="1">
+  <test name="Firefox Test">
+   <parameter name="browserType" value="firefox"></parameter>
+    <classes>
+      <class name="com.demoproject.testngparameterization.TestNGMultiBrowserAndParallelTest"/>
+    </classes>
+  </test> <!-- Test -->
+  
+   <test name="Chrome Test">
+   <parameter name="browserType" value="chrome"></parameter>
+    <classes>
+      <class name="com.demoproject.testngparameterization.TestNGMultiBrowserAndParallelTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

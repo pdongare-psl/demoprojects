@@ -1,0 +1,44 @@
+18:05:29.636 INFO  TestNGMultiBrowserAndParallelTest -Loading config.properties file
+18:05:29.679 INFO  TestNGMultiBrowserAndParallelTest -Loading config.properties file
+18:05:29.744 INFO  TestNGMultiBrowserAndParallelTest -This method is running from Before Class
+18:05:29.746 INFO  TestNGMultiBrowserAndParallelTest -Loading config.properties file
+18:05:29.849 INFO  TestNGMultiBrowserAndParallelTest -Get Instance for Extent Reports
+18:05:29.852 INFO  TestBase -Launching Firefox browser
+18:05:44.239 INFO  HomePage -PageFactory initialization for locating elements
+18:05:44.966 INFO  HomePage -Browser maximized
+18:05:44.981 INFO  HomePage -Implicit wait method called
+18:05:44.981 INFO  HomePage -loading the given url
+18:06:52.402 INFO  HomePage -Explicitly waiting  for back to site button to pop up
+18:06:53.801 INFO  HomePage -Clicked on close button and back to site
+18:06:54.360 INFO  HomePage -Clicked on signup link
+18:06:55.056 INFO  HomePage -Clicked on login link
+18:06:55.307 INFO  HomePage -Entered username
+18:06:55.404 INFO  HomePage -Entered password
+18:06:55.745 INFO  HomePage -Clicked on GoButton and Navigating to Practice page 
+18:07:00.746 INFO  HomePage -Wait for 5 secs
+18:07:00.764 INFO  HomePage -Navigating to Practice page
+18:07:33.147 INFO  HomePage -Wait for 5 secs
+18:07:33.147 INFO  HomePage -Inside method Select multiple checkox
+18:07:34.126 INFO  TestNGMultiBrowserAndParallelTest -Verified all checkboxes are selected
+18:07:34.130 INFO  HomePage -Inside Validate checkbox method
+18:07:53.060 INFO  TestNGMultiBrowserAndParallelTest -This method is running from Before Class
+18:07:53.062 INFO  TestNGMultiBrowserAndParallelTest -Loading config.properties file
+18:07:53.216 INFO  TestNGMultiBrowserAndParallelTest -Get Instance for Extent Reports
+18:07:53.216 INFO  TestBase -Launching Chrome browser
+18:08:39.024 INFO  HomePage -PageFactory initialization for locating elements
+18:08:40.188 INFO  HomePage -Browser maximized
+18:08:40.192 INFO  HomePage -Implicit wait method called
+18:08:40.192 INFO  HomePage -loading the given url
+18:08:47.550 INFO  HomePage -Explicitly waiting  for back to site button to pop up
+18:08:51.331 INFO  HomePage -Clicked on close button and back to site
+18:08:51.741 INFO  HomePage -Clicked on signup link
+18:08:52.011 INFO  HomePage -Clicked on login link
+18:08:52.326 INFO  HomePage -Entered username
+18:08:52.517 INFO  HomePage -Entered password
+18:08:52.621 INFO  HomePage -Clicked on GoButton and Navigating to Practice page 
+18:08:57.622 INFO  HomePage -Wait for 5 secs
+18:08:57.627 INFO  HomePage -Navigating to Practice page
+18:09:06.421 INFO  HomePage -Wait for 5 secs
+18:09:06.421 INFO  HomePage -Inside method Select multiple checkox
+18:09:06.915 INFO  TestNGMultiBrowserAndParallelTest -Verified all checkboxes are selected
+18:09:06.917 INFO  HomePage -Inside Validate checkbox method
